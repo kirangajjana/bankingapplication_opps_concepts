@@ -4,6 +4,8 @@ class Account:
 
     def __init__(self):
         pass
+    def name1(self):
+        print("hello kiran gajjana welcome to the age of new war")
 
 if __name__ == "__main__":
     print(f"welcome to {Account.bank_name}")
