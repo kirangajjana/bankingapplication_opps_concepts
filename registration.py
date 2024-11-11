@@ -3,6 +3,7 @@ class Registration:
     def __init__(self,name,city):
         self.name=name
         self.city=city
+        kiran.transcation+=1
         pass
     def info(self):
         print(f"welcome to {kiran.bank_name}")
