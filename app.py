@@ -2,8 +2,7 @@ class Account:
     """Here I developed this class to mimic basic bank functionality"""
     bank_name = "Kiran Bank of India"
 
-    def __init__(self):
-        pass
+
     def name1(self):
         print("hello kiran gajjana welcome to the age of new war")
 

@@ -1,8 +1,8 @@
 from app import Account as kiran
 class Registration:
     def __init__(self,name,city):
-        # self.name=name
-        # self.city=city
+        self.name=name
+        self.city=city
         pass
     def info(self):
         print(f"welcome to {kiran.bank_name}")
